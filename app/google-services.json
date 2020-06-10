@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206878621790",
+    "firebase_url": "https://e-commerce-r7.firebaseio.com",
+    "project_id": "e-commerce-r7",
+    "storage_bucket": "e-commerce-r7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206878621790:android:b680908ff00b0b81ee74cf",
+        "android_client_info": {
+          "package_name": "com.mrshadat.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206878621790-ck04i6ukqumvqloq56pvjnth9jh03g3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrshadat.ecommerce",
+            "certificate_hash": "dde46efa1e510d740aa3fbdc42821fdc2c579dd2"
+          }
+        },
+        {
+          "client_id": "206878621790-p9mkiq99h1ap2u4vjtfemmp81kr9s24l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwwyIvuUnQ6Ucz5dwBkFQFLrqalvmc0SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206878621790-p9mkiq99h1ap2u4vjtfemmp81kr9s24l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
